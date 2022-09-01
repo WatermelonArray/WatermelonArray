@@ -34,7 +34,7 @@ based projects like making my own Linux Distros.
 
 #### CURRENT GPG PUBLIC KEY/S:
 
-*
+* F991C4F20A9686BF
 
 #### OLD GPG PUBLIC KEY/S:
 
