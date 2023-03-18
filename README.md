@@ -9,7 +9,6 @@ based projects like making my own Linux Distros.
 * Visual Studio Code
 * Visual Studio (2017-2019)
 * Vim
-* Linux/GNU
 * Unity
 * Blender
 * Photoshop
