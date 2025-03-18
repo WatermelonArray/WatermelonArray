@@ -15,11 +15,12 @@ based projects like making my own Linux Distros.
 
 ### Currently learning:
 
-* Unreal Engine
+* Godot
 
 ## Languages I know:
 
 * Lua
+* Luau
 * JavaScript
 * C#
 * Rust
